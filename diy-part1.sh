@@ -18,4 +18,4 @@
 echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall;luci' >>feeds.conf.default
 echo 'src-git passwall_packages https://github.com/xiaorouji/openwrt-passwall;packages' >>feeds.conf.default
 svn co https://github.com/Lienol/openwrt-package/trunk/luci-app-control-timewol package/luci-app-control-timewol
-git clone https://github.com/ilxp/luci-app-ikoolproxy.git package/luci-app-ikoolproxy
+# git clone https://github.com/ilxp/luci-app-ikoolproxy.git package/luci-app-ikoolproxy
